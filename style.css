@@ -43,7 +43,7 @@ nav {
     text-align: center;
 }
 nav.comic {
-    height: 2em;
+    height: 3em;
     border-bottom: none;
     width: 50%;
     text-align: center;
@@ -59,7 +59,7 @@ nav ul {
     margin: auto;
     font-family: 'Source Code Pro', ;
     font-size: 36;
-    text-align: center;
+    display: table-cell;
 	vertical-align: middle;
     text-align: center;
 }
