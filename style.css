@@ -1,0 +1,128 @@
+body {
+    background-color: #9E9E9E;
+    font-family: 'Roboto', sans-serif;
+}
+
+#wrapper {
+    width: 60%;
+    height: 50%;
+    background-color: red;
+    margin: auto;
+}
+#wrapper.blog {
+    height: auto;
+}
+#wrapper.comic {
+    height: auto;
+    background-color: #E64A19;
+}
+
+p {
+    text-align: center;
+}
+header {
+    height: 50px;
+    width: 100%;
+    background-color: #BF360C;
+    text-align: center;
+    font-family: 'Source Code Pro', ;
+    font-size: 42;
+    display: table;
+}
+header h1 {
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+}
+nav {
+    width: 60%;
+    height: 50px;
+    background-color: #E64A19;
+    display: table;
+    margin: auto;
+    border-bottom: solid #9E9E9E 30px;
+    text-align: center;
+}
+nav.comic {
+    height: 30px;
+    border-bottom: none;
+    width: 50%;
+    text-align: center;
+}
+nav img {
+    margin: auto;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+nav ul {
+    padding: 0px;
+    margin: auto;
+    font-family: 'Source Code Pro', ;
+    font-size: 36;
+    text-align: center;
+}
+nav ul li {
+    margin: 0 auto;
+    list-style: none;
+    padding: 0px 20px 0px 20px;
+    line-height: 50px;
+    display: table-cell;
+    vertical-align: middle;
+    margin: 0px auto;
+    text-align: center;
+}
+nav a {
+    margin: 0 auto;
+    padding: 10px;
+    border: solid 2px #263238;
+    background-color: #388E3C;
+    text-align: center;
+}
+article {
+    height: 630px; 
+    background-color: #FB8C00;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+article.half {
+    width: 500px;
+    float: right;
+}
+article.comic {
+    height: auto;
+}
+article p {
+    padding-left: 60px;
+    padding-right: 60px;
+}
+section {
+    font-family: 'Roboto', sans-serif;
+    height: 630px;
+    background-color: #4527A0;
+    text-align: center;
+    color: #FAFAFA;
+}
+section.half {
+    width: 500px;
+}
+section.blog {
+    height: auto;
+    padding-left: 160px;
+    padding-right: 160px;
+}
+section.padding {
+    padding-left: 160px;
+    padding-right: 160px;
+}
+footer {
+    height: 12px;
+    width: 100%;
+    background-color: #757575;
+    display: table;
+}
+footer p {
+    text-align: center;
+    display: table-cell;
+    text-align: middle;
+}
