@@ -78,7 +78,8 @@ nav a {
     text-align: center;
 }
 article {
-    height: 100%; 
+	padding-top: 0.01%;
+    height: 25em;
     background-color: #FB8C00;
     text-align: center;
     font-family: 'Roboto', sans-serif;
@@ -98,8 +99,9 @@ article p {
     padding-right: 6%;
 }
 section {
+	padding-top: 0.01%;
     font-family: 'Roboto', sans-serif;
-    height: 100%;
+    height: 25em;
     background-color: #FFA000;
     text-align: center;
 }
