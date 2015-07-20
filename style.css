@@ -80,7 +80,7 @@ nav a {
     text-align: center;
 }
 article {
-    height: 630px; 
+    height: 75%; 
     background-color: #FB8C00;
     text-align: center;
     font-family: 'Roboto', sans-serif;
@@ -101,7 +101,7 @@ article p {
 }
 section {
     font-family: 'Roboto', sans-serif;
-    height: 630px;
+    height: 75%;
     background-color: #4527A0;
     text-align: center;
     color: #FAFAFA;
