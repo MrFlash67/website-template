@@ -19,7 +19,7 @@ p {
     text-align: center;
 }
 header {
-    height: 50px;
+    height: 20%;
     width: 100%;
     background-color: #BF360C;
     text-align: center;
@@ -78,7 +78,7 @@ nav a {
     text-align: center;
 }
 article {
-    height: inherit; 
+    height: 100%; 
     background-color: #FB8C00;
     text-align: center;
     font-family: 'Roboto', sans-serif;
@@ -99,7 +99,7 @@ article p {
 }
 section {
     font-family: 'Roboto', sans-serif;
-    height: inherit;
+    height: 100%;
     background-color: #4527A0;
     text-align: center;
     color: #FAFAFA;
@@ -109,15 +109,15 @@ section.half {
 }
 section.blog {
     height: auto;
-    padding-left: 160px;
-    padding-right: 160px;
+    padding-left: 16%;
+    padding-right: 16%;
 }
 section.padding {
-    padding-left: 160px;
-    padding-right: 160px;
+    padding-left: 16%;
+    padding-right: 16%;
 }
 footer {
-    height: 12px;
+    height: 12%;
     width: 100%;
     background-color: #757575;
     display: table;
