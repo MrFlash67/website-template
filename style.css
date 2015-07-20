@@ -80,14 +80,13 @@ nav a {
     text-align: center;
 }
 article {
-	width: 50%;
     height: 630px; 
     background-color: #FB8C00;
     text-align: center;
     font-family: 'Roboto', sans-serif;
 }
 article.half {
-    width: 500px;
+	width: 50%;
     float: right;
 }
 article.comic {
@@ -98,7 +97,6 @@ article p {
     padding-right: 60px;
 }
 section {
-	width: 50%;
     font-family: 'Roboto', sans-serif;
     height: 630px;
     background-color: #4527A0;
@@ -106,7 +104,7 @@ section {
     color: #FAFAFA;
 }
 section.half {
-    width: 500px;
+    width: 50%;
 }
 section.blog {
     height: auto;
