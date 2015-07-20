@@ -100,9 +100,8 @@ article p {
 section {
     font-family: 'Roboto', sans-serif;
     height: 100%;
-    background-color: #4527A0;
+    background-color: #FFA000;
     text-align: center;
-    color: #FAFAFA;
 }
 section.half {
     width: 50%;
